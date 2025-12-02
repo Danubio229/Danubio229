@@ -1,7 +1,7 @@
 ## Hi Everyone 👋
 
 **`Desenvolvedora FullStack`**<br>
-Olá me chamo Danubio. Sou um programador FullStack iniciante! Estou aprendedo e criando projetos no momento com:
+Olá me chamo Danubio. Sou um programador FullStack ! Estou aprendedo e criando projetos no momento com:
 <br>
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
