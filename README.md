@@ -12,7 +12,7 @@ Back-end: Node.js, Express, APIs REST, Prisma ORM.
 Bancos de Dados: MySQL, PostgreSQL, MongoDB.
 
 <br>
-### 🤖 Linguagens e Tecnologias
+ 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Danubio229-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Danubio229-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
