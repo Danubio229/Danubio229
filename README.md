@@ -1,6 +1,6 @@
 ## Hi Everyone 👋
 
-**`Desenvolvedora FullStack`**<br>
+**`Desenvolvedor FullStack`**<br>
 Desenvolvedor Full Stack, unindo uma base técnica sólida a uma trajetória marcada por resiliência e foco no cliente. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) no Senac e dedico-me ao aperfeiçoamento constante.
 
 Tech Stack & Ferramentas:
