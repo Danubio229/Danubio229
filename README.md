@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5832F7&background=4A4BA704&width=435&lines=Desenvolvedor+Full+Stack;Danubio+Souza)](https://git.io/typing-svg)
+
+
 # Olá, eu sou o Danubio! 👋
 
 ### 🚀 Desenvolvedor Full Stack | Estudante de ADS no Senac
