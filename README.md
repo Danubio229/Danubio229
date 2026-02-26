@@ -14,24 +14,16 @@ Desenvolvedor apaixonado por tecnologia, unindo uma base técnica sólida a uma 
 
 - Front end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,figma,styledcomponents)](https://skillicons.dev)
 - Back end:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,postgres,sequelize,supabase,mongodb,py)](https://skillicons.dev)
 - Design & Tools:
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,prisma,vite,npm,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,prisma,vite,npm)](https://skillicons.dev)
 
-  
----
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Danubio229">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danubio229&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Felipe Ryo Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danubio229&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+
 <br>
 
 ### 📫 Contato
